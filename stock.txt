@@ -1,0 +1,3 @@
+Harry Potter,JK Rowling,90.0,2.0
+Start With Why,Simon Senik,92.0,1.5
+Programming With Python,John Smith,98.0,1.5

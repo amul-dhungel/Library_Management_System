@@ -1,0 +1,13 @@
+*****************Receipt****************
+
+Date: 2020/4/16 Time: 16:42:0
+
+Borrower name: AMUL DHUNGEL
+
+Bookname               Author               price
+Start With Why               Simon Senik               1.5
+
+
+Total Amount: 1.5
+
+Thanks for visiting
